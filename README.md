@@ -1,4 +1,4 @@
-# For Independent work of class
+# Independent and Group Projects
 ### Purpose
 - What you want to work on
 - How you going to work on this project
