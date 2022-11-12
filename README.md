@@ -3,10 +3,10 @@
 - What you want to work on
 - How you going to work on this project
 - Why working on this project
-  - solutions
+  -- solutions
 - Documenting
 - Description
- - problem
- - solution
- - tasks
+ -- problem
+ -- solution
+ -- tasks
 - Goal
